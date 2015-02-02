@@ -2,6 +2,9 @@
 
 Turns a JSON string embedded in your HTML into questions in a form.
 
+Couldn't hurt to obfuscate it.
+
+```
 <code>
 <div class="questions">
 [
@@ -43,3 +46,4 @@ Turns a JSON string embedded in your HTML into questions in a form.
 ]
 </div>
 </code>
+```
